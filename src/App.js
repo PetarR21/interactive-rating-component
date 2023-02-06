@@ -11,7 +11,7 @@ const App = () => {
     setSubmitted(value);
   };
 
-  return submited == 0 ? (
+  return submited === 0 ? (
     <RatingForm handleSubmit={handleSubmit} />
   ) : (
     <SubmittedCard value={submited} />

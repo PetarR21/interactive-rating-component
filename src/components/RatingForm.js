@@ -20,7 +20,7 @@ const RatingForm = ({ handleSubmit }) => {
           help us improve our offering!
         </p>
         <RatingSelect setCurrentValue={setCurrentValue} />
-        <button type='submit' disabled={currentValue == 0}>
+        <button type='submit' disabled={currentValue === 0}>
           Submit
         </button>
       </form>
