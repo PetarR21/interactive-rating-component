@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/PetarR21/interactive-rating-component](https://github.com/PetarR21/interactive-rating-component)
-- Live Site URL: [https://petarr21.github.io/interactive-rating-component](https://petarr21.github.io/interactive-rating-component)
+- Live Site URL: [https://bejewelled-kulfi-714977.netlify.app/](https://bejewelled-kulfi-714977.netlify.app/)
 
 ## My process
 
